@@ -74,9 +74,10 @@
 							&nbsp; More
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="aboutus.php">About us</a>
-							<a class="dropdown-item" href="">News</a>
-							<a class="dropdown-item" href="">Membership</a>
+							<a class="dropdown-item" href="aboutus.php">Mission</a>
+							<a class="dropdown-item" href="">Career</a>
+							<a class="dropdown-item" href="">Method</a>
+							<a class="dropdown-item" href="">About AVOS</a>
 							<a class="dropdown-item" href="">Donate to Evos</a>
 						</div>
 					</li>
