@@ -1,0 +1,33 @@
+bảng 0 : bảng id
+ 
+-- tên chương
+--tên khoá
+--id tương ứng
+
+Bảng 1 : cauu hỏi trắc nghiệm
+--đã chốt
+
+Bảng 2 : câu hỏi audio
+   
+    --id tương ứng của bảng 0
+    --nội dung đoạn nghe
+    --nội dung bài học (copy class)
+
+Bảng 3 : câu hỏi video youtube
+   
+    --id tương ứng của bảng 0
+    --link youtube
+    --nội dung bài học (copy class)
+
+bảng 4 : người dùng ( chưa xong)
+ 
+    --tên nd
+    --tài khoản
+    -- pass
+    --
+
+bảng 5 : bình luận
+
+   --tên ng dùng
+   -- nội dung bình luận
+
