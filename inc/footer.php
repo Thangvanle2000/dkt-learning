@@ -18,21 +18,21 @@
 							<ul class="list-unstyled">
 								<h3>Menu</h3>
 								<li class="btn-link"> <a href="index.php">Home</a></li>
-								<li class="btn-link"> <a href="index.php?page=news">About us</a></li>
+								<li class="btn-link"> <a href="index.php?page=news">About AVOS</a></li>
 								<li class="btn-link"><a href="index.php?page=shipping">Library</a></li>
-								<li class="btn-link"> <a href="camera.php?c=1">News</a></li>
+								<li class="btn-link"> <a href="camera.php?c=1">Forum</a></li>
 								<li class="btn-link"> <a href="laptop.php?c=2">Course</a></li>
-								<li class="btn-link"> <a href="device.php?c=3">Donate to Evos</a></li>
+								<li class="btn-link"> <a href="device.php?c=3">Donate to EVOS</a></li>
 							</ul>
 						</div>
 						<div class="col-2">
 							<ul class="list-unstyled">
 								<h3>Quick links</h3>
-								<li class="btn-link"> <a href="index.php?page=feedback">How to Learn</a></li>
-								<li class="btn-link"> <a href="index.php?page=aboutus">Membership</a></li>
-								<li class="btn-link"> <a href="index.php?page=term">Forum</a></li>
+								<li class="btn-link"> <a href="index.php?page=feedback">Mission</a></li>
+								<li class="btn-link"> <a href="index.php?page=aboutus">Method</a></li>
+								<li class="btn-link"> <a href="index.php?page=term">Career</a></li>
 								<li class="btn-link"> <a href="index.php?page=policy">Terms of Use</a></li>
-								<li class="btn-link"> <a href="index.php?page=contactus">FAQs</a></li>
+								<li class="btn-link"> <a href="index.php?page=contactus">Login</a></li>
 							</ul>
 						</div>
 						<div class="col-3">

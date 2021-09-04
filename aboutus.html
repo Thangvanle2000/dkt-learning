@@ -19,7 +19,6 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
 
-
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
 		integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj"
 		crossorigin="anonymous"></script>
@@ -27,9 +26,10 @@
 
 <body>
 	<div name="header-LOGO" style="height: 100px; width: 100%">
-		<div id="logo"><a href="index.php"> <img src="Image/logo/logo 16_9.png" alt="sample logo"></a></div>
+		<div id="logo"><a href="test.html"> <img src="Image/logo/logo 16_9.png" alt="sample logo"></a></div>
 
 	</div>
+	<!--Start navbar-->
 	<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top border-bottom border-top border-gray">
 		<a class="navbar-brand" href="#"> <img class="ml-5" src="Image/logo/logo%20small%20trans.png" height="36"
 				alt="">
@@ -60,8 +60,7 @@
 						</a>
 					</li>
 					<li class="nav-item ml-3">
-
-						<a class="nav-link" href="pages/forum.php">
+						<a class="nav-link" href="index.php?page=lib">
 							<img alt="" fill="#000000" height="36" src="Image/icon/forum.svg" style="opacity:50%;"
 								width="36">
 							&nbsp; Forum
@@ -74,7 +73,7 @@
 							&nbsp; More
 						</a>
 						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							<a class="dropdown-item" href="aboutus.php">About us</a>
+							<a class="dropdown-item" href="">About us</a>
 							<a class="dropdown-item" href="">News</a>
 							<a class="dropdown-item" href="">Membership</a>
 							<a class="dropdown-item" href="">Donate to Evos</a>
@@ -91,9 +90,12 @@
 			</div>
 		</div>
 	</nav>
+	<!--End navbar-->
+
+	<!--Start breadcrumb-->
 	<div class="row">
 		<div name="content" class="col-12 ">
-			<nav aria-label="breadcrumb" class="first">
+			<nav aria-label="breadcrumb">
 				<ol class="breadcrumb">
 					<li class="breadcrumb-item"><a href="#">Home</a></li>
 					<li class="breadcrumb-item"><a href="#">Library</a></li>
@@ -101,198 +103,62 @@
 				</ol>
 			</nav>
 			</header>
+<!--End header-->
 
-			<section class="page-section">
-				<div class="container">
-					<div class="product-item">
-						<div class="product-item-title d-flex">
-							<div class="bg-faded p-5 d-flex ms-auto rounded">
-								<h2 class="section-heading mb-0">
-									<span class="section-heading-upper">Learning with AVOS</span>
-									<span class="section-heading-lower">Make learning fun.</span>
-								</h2>
-							</div>
-						</div>
-						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="Image/about-1.jpg"  >
-						<div class="product-item-description d-flex me-auto">
-							<div class="bg-faded p-5 rounded">
-								<p class="mb-0">
-									Learning english online is often boring, so we create a fun lesson called AVOS to keep
-									motivated to play while learning a new skill every day.Our biggest goal is to make the 
-									AVOS experience feel like learning with a private tutor.
-								</p></div>
-						</div>
+  <!--Start intro-->
+          <section class="page-section">
+	     <div class="container">
+		   <div class="title-intro">
+			<h2>Introduce
+			<button class="custom-btn btn-4" id="myAboutus" >About us</button>
+			<button class="custom-btn btn-4" id="myMethod">Method</button> 
+			<button class="custom-btn btn-4" id="myMission">Mission</button> 
+			<button class="custom-btn btn-4" id="myCareer">Career</button> 
+		</h2>
+	   </div>
+	    	<hr>
+					<div class="row rounded mx-auto d-block">
+						<h4 class=" text-center mb-5 font-weight-bold width-500">
+							AVOS was established since 2021. Our address are 40W 18th Street New York, NY, 10001.
+							We have idea about English Learning when we have been received project in TTCN. 
+						</h4>
+					<img src="Image/a-1.jpg" height="400" width="800">
 					</div>
+                   <hr>
+				   <div class="row rounded mx-auto d-block">
+					<h4 class=" text-center mb-5 font-weight-bold width-500">
+						One for everyone.
+					</h4>
+				<div class="flex-row">
+			   <img src="Image/a-2.svg" height="400" width="800">
+				<ul class="list-bullets flex-basis-400 font-17">
+					<li class="mb-2 color-1">Development</li>
+					<li class="mb-2 color-2">Marketing</li>
+					<li class="mb-2 color-3">Learning content</li>
+					<li class="mb-2 color-4">Design</li>
+					<li class="mb-2 color-5">Product Management</li>
+					<li class="mb-2 color-6">HUMAN RESOURCES</li>
+					<li class="mb-2 color-7">Techniques</li>
+				</ul>
+			    </div>
+				</div>
+				<hr>
+				<div class="row rounded mx-auto d-block">
+					<h4 class=" text-center mb-5 font-weight-bold width-500">
+						We had fun.
+					</h4>
+					<p> We have 3 clubs, 10 group games, and always ready to welcome the dogs!</p>
+			   <img src="Image/a-3.svg" height="400" width="800">
+			
+			    </div>
+				</div>
 				</div>
 			</section>
-			<hr>
-			<section class="page-section">
-				<div class="container">
-					<div class="product-item">
-						<div class="product-item-title d-flex">
-							<div class="bg-faded p-5 d-flex me-auto rounded">
-								<h2 class="section-heading mb-0">
-									<span class="section-heading-upper">
-										Interesting Image</span>
-									<span class="section-heading-lower">Special content </span>
-								</h2>
-							</div>
-						</div>
-						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="Image/about-4.jpg" >
-						<div class="product-item-description d-flex ms-auto">
-							<div class="bg-faded p-5 rounded">
-								<p class="mb-0">
-									Besides common phrases like (What is that), AVOS also encounter phrase like "The monkey hold key".
-							</p></div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<hr>
+			<!--End intro-->
+			
 
-			<section class="page-section">
-				<div class="container">
-					<div class="product-item">
-						<div class="product-item-title d-flex">
-							<div class="bg-faded p-5 d-flex me-auto rounded">
-								<h2 class="section-heading mb-0">
-									<span class="section-heading-upper">Personalize Education</span>
-									<span class="section-heading-lower">Our biggest goal </span>
-								</h2>
-							</div>
-						</div>
-						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="Image/about-2.jpg" >
-						<div class="product-item-description d-flex ms-auto">
-							<div class="bg-faded p-5 rounded">
-								<p class="mb-0">
-									Everyone has their own learning method. For the first time in history, for the first time in history, 
-									we were able to analyze the learning patterns of millions of people to create the most appropriate, 
-									effective education system for each individual student.
-							</p></div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<hr>
-			<section class="page-section">
-				<div class="container">
-					<div class="product-item">
-						<div class="product-item-title d-flex">
-							<div class="bg-faded p-5 d-flex ms-auto rounded">
-								<h2 class="section-heading mb-0">
-									<span class="section-heading-upper">Accessible from anywhere.</span>
-									<span class="section-heading-lower">From around a word</span>
-								</h2>
-							</div>
-						</div>
-						<img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="Image/about-3.jpg" >
-						<div class="product-item-description d-flex me-auto">
-							<div class="bg-faded p-5 rounded">
-								<p class="mb-0">
-									More than 1.2 billion people are learning English language, and most of them are learning because 
-									they want access to better study or work opportunities. Unfortunately, the process of teaching and 
-									learning English language is often quite expensive, making it inaccessible to many people.
-
-
-							</p></div>
-						</div>
-					</div>
-				</div>
-			</section>
+			<!--Start footer-->
 			<footer class="text-left">
-				<div class="container-fluid  p-4" style="background: #e9ecef">
-					<div class="row">
-						<div class="col-1"></div>
-						<div class="col-3">
-							<ul class="list-unstyled">
-								<h3><a href="#" style="text-decoration: none;">
-										<img class="" src="Image/logo/logo%20small%20trans.png" height="80" alt=""></a>
-								</h3>
-								<p>AVOS was established since 2021. We have idea about English Learning when we
-									have
-									been
-									received project in TTCN.
-								</p>
-
-							</ul>
-						</div>
-						<div class="col-2">
-							<ul class="list-unstyled">
-								<h3>Menu</h3>
-								<li class="btn-link"> <a href="index.php">Home</a></li>
-								<li class="btn-link"> <a href="index.php?page=news">About us</a></li>
-								<li class="btn-link"><a href="index.php?page=shipping">Library</a></li>
-								<li class="btn-link"> <a href="camera.php?c=1">News</a></li>
-								<li class="btn-link"> <a href="laptop.php?c=2">Course</a></li>
-								<li class="btn-link"> <a href="device.php?c=3">Donate to Evos</a></li>
-							</ul>
-						</div>
-						<div class="col-2">
-							<ul class="list-unstyled">
-								<h3>Quick links</h3>
-								<li class="btn-link"> <a href="index.php?page=feedback">How to Learn</a></li>
-								<li class="btn-link"> <a href="index.php?page=aboutus">Membership</a></li>
-								<li class="btn-link"> <a href="index.php?page=term">Forum</a></li>
-								<li class="btn-link"> <a href="index.php?page=policy">Terms of Use</a></li>
-								<li class="btn-link"> <a href="index.php?page=contactus">FAQs</a></li>
-							</ul>
-						</div>
-						<div class="col-3">
-							<address>
-								<h3>Find us</h3>
-								<strong>AVOS, Inc.</strong><br>
-								40W 18th Street<br>
-								New York, NY, 10001<br>
-								<abbr title="Phone"><a href="#">Get Direction</a></abbr>
-							</address>
-							<address>
-								<div class="footer-social-link">
-									<h3>Follow us</h3>
-									<ul>
-										<li>
-											<a href="#">
-												<i class="fa fa-facebook"></i>
-											</a>
-										</li>
-										<li>
-											<a href="#">
-												<i class="fa fa-twitter"></i>
-											</a>
-										</li>
-										<li>
-											<a href="#">
-												<i class="fa fa-google-plus"></i>
-											</a>
-										</li>
-										<li>
-											<a href="#">
-												<i class="fa fa-linkedin"></i>
-											</a>
-										</li>
-										<li>
-											<a href="#">
-												<i class="fa fa-instagram"></i>
-											</a>
-										</li>
-									</ul>
-								</div>
-							</address>
-						</div>
-
-					</div>
-
-				</div>
-				<div class="container">
-					<div class="row">
-						<div class="col-12">
-							<p>Copyright © AVOS. All rights reserved.</p>
-						</div>
-					</div>
-				</div>
-			</footer>
-			<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-			<script src="js/jquery-3.3.1.min.js"></script>
-			<!-- Include all compiled plugins (below), or include individual files as needed -->
 			<script src="js/popper.min.js"></script>
 			<script src="js/bootstrap-4.3.1.js"></script>
 

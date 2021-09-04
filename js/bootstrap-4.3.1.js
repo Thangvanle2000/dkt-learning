@@ -2726,10 +2726,13 @@
       var _ret = _loop(i, len);
 
       if (_ret === "continue")
-    }
+    {
+		
+	}
 
     return createdDocument.body.innerHTML;
   }
+}
 
   /**
    * ------------------------------------------------------------------------
@@ -4432,6 +4435,29 @@
   Object.defineProperty(exports, '__esModule', { value: true });
 
 }));
-//# sourceMappingURL=bootstrap.js.map
-    
+document.getElementById("myMission").onclick = function () {
+	location.href = "mission.html";
+}
+document.getElementById("myMethod").onclick = function () {
+	location.href = "method.html";
+}
+document.getElementById("myCareer").onclick = function () {
+	location.href = "career.html";
+}
+document.getElementById("myAboutus").onclick = function () {
+	location.href = "aboutus.html";
+}
 
+$(document).ready(function(){
+    $("#testimonial-slider").owlCarousel({
+        items:2,
+        itemsDesktop:[1000,2],
+        itemsDesktopSmall:[979,2],
+        itemsTablet:[768,2],
+        itemsMobile:[650,1],
+        pagination:true,
+        navigation:false,
+        slideSpeed:1000,
+        autoPlay:true
+    });
+});
