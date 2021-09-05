@@ -4,10 +4,10 @@ bảng 0 : bảng id(đã xong)
 --tên khoá
 --id tương ứng
 
-Bảng 1 : cauu hỏi trắc nghiệm(đang làm dở)
+Bảng 1 : câu hỏi trắc nghiệm(đang làm dở)
 --đã chốt
 
-Bảng 2 : câu hỏi audio
+Bảng 2 : câu hỏi audio(đã xong)
    
     --id tương ứng của bảng 0
     --nội dung đoạn nghe
