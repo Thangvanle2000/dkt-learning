@@ -1,10 +1,10 @@
-bảng 0 : bảng id
+bảng 0 : bảng id(đã xong)
  
 -- tên chương
 --tên khoá
 --id tương ứng
 
-Bảng 1 : cauu hỏi trắc nghiệm
+Bảng 1 : cauu hỏi trắc nghiệm(đang làm dở)
 --đã chốt
 
 Bảng 2 : câu hỏi audio
@@ -13,20 +13,20 @@ Bảng 2 : câu hỏi audio
     --nội dung đoạn nghe
     --nội dung bài học (copy class)
 
-Bảng 3 : câu hỏi video youtube
+Bảng 3 : câu hỏi video youtube ( đã xong)
    
     --id tương ứng của bảng 0
     --link youtube
-    --nội dung bài học (copy class)
+    --nội dung trong youtebe
 
-bảng 4 : người dùng ( chưa xong)
+bảng 4 : người dùng ( chưa chốt)
  
     --tên nd
     --tài khoản
     -- pass
     --
 
-bảng 5 : bình luận
+bảng 5 : bình luận ( chưa chốt)
 
    --tên ng dùng
    -- nội dung bình luận
