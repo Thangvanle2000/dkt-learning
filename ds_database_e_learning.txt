@@ -7,19 +7,19 @@ bảng 0 : bảng id(đã xong)
 Bảng 1 : câu hỏi trắc nghiệm(đang làm dở)
 --đã chốt
 
-Bảng 2 : câu hỏi audio(đã xong)
+Bảng 2 : bảng audio(đã xong)
    
     --id tương ứng của bảng 0
     --nội dung đoạn nghe
     --nội dung bài học (copy class)
 
-Bảng 3 : câu hỏi video youtube ( đã xong)
+Bảng 3 : bảng youtube ( đã xong)
    
     --id tương ứng của bảng 0
     --link youtube
     --nội dung trong youtebe
 
-bảng 4 : người dùng ( chưa chốt)
+bảng 4 : bảng người dùng ( chưa chốt)
  
     --tên nd
     --tài khoản
