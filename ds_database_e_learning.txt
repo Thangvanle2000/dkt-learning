@@ -17,7 +17,7 @@ Bảng 3 : bảng youtube ( đã xong)
    
     --id tương ứng của bảng 0
     --link youtube
-    --nội dung trong youtebe
+    --nội dung bài học
 
 bảng 4 : bảng người dùng ( chưa chốt)
  
