@@ -1,5 +1,5 @@
-ID Course;ID Part;Content Audio;Content Lesson
-5;1;" A: Good evening, Ms. Walsh. How are you?
+ID Course;ID Part;Name File;Content Audio;Content Lesson
+5;1;audio5-1;" A: Good evening, Ms. Walsh. How are you?
   B: Good. And you? How are you, Zo?
   A: I'm great! I just wanted to make sure you were in your office so I can stop by for the homework; I'm going on my big trip tomorrow!
   B: Ah, yes! Is tomorrow Wednesday?
@@ -49,7 +49,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-5;2;"A: (singing a pop song)
+5;2;audio5-2;"A: (singing a pop song)
   B: Excuse me. May I pass by you? My seat’s next to yours.
   A: Oh, sorry! Go ahead, please.
   B: Hello. How are you? I'm Zo.
@@ -92,7 +92,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-5;3;" A: So who’s the singer?
+5;3;audio5-3;" A: So who’s the singer?
   B: I'm sorry?
   A: The song you were singing.
   B: Oh my gosh! I'm embarrassed! It's Beyoncé. [laughs]
@@ -160,7 +160,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-5;4;"A: (to flight attendant) Excuse me, may I have some water, please?
+5;4;audio5-4;"A: (to flight attendant) Excuse me, may I have some water, please?
   B: Oh, certainly, ma'am.
   A: Sorry. So, Cape Town’s nice. It seems so…interesting!
   C: (laughs) Los Angeles is nice, too! So, what do you do in Los Angeles?
@@ -217,7 +217,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-5;5;" A: Good afternoon, everyone. This is the pilot. Welcome to New York. The time now is three PM on Thursday, April 30th. The temperature’s a cool fifty-three degrees Fahrenheit, which is about twelve degrees Celsius. Enjoy your stay in New York.
+5;5;audio5-5;" A: Good afternoon, everyone. This is the pilot. Welcome to New York. The time now is three PM on Thursday, April 30th. The temperature’s a cool fifty-three degrees Fahrenheit, which is about twelve degrees Celsius. Enjoy your stay in New York.
   B: Fifty-three degrees? Wow. It's cold.
   C: Yep, I have a jacket.
   B: [sounding forlorn] Oh. I don't.";"<div class=""lsn3-lesson-notes"">
@@ -275,7 +275,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-5;6;"A: Foreign passport holders this way. Foreign passport holders this way.
+5;6;audio5-6;"A: Foreign passport holders this way. Foreign passport holders this way.
   B: Well, it was nice to meet you.
   C: Same here.
   B: By the way, this is my business card. This is my e-mail address, and this is my phone number.
@@ -324,7 +324,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-5;7;" A: Next. Passport, please.
+5;7;audio5-7;" A: Next. Passport, please.
   B: Hello. Here you are.
   A: How long will you stay?
   B: Once again, please.
@@ -377,7 +377,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-5;8;"A: Next, please.
+5;8;audio5-8;"A: Next, please.
   B: I'd like to go to Times Square. Please, what time’s the shuttle bus?
   A: Four o'clock.
   B: Okay. 1 ticket, please.
@@ -440,7 +440,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-5;9;" A: Good evening, sir!
+5;9;audio5-9;" A: Good evening, sir!
   B: Hello. [Places items on the counter]
   C: Okay—so that’s 3 bottles of water, 1 bottle of orange juice, 1 can of soda, a sandwich, a box of crackers, and a pack of gum. Is that all?
   B: What’s that?
@@ -499,7 +499,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-5;10;" A: Welcome to the L Hotel!
+5;10;audio5-10;" A: Welcome to the L Hotel!
   B: Hello. I have a reservation.
   A: Your name, please.
   B: Zo Viljoen.
@@ -558,7 +558,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;11;"A: Welcome to the UK. Why are you visiting the UK?
+6;11;audio6-1;"A: Welcome to the UK. Why are you visiting the UK?
   B: I am here to study.
   A: How long will you stay for?
   B: I will stay for one year.
@@ -702,7 +702,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;12;" A: I like this flat. How much is the rent?
+6;12;audio6-2;" A: I like this flat. How much is the rent?
   B: It is £350 per week.
   A: That is a little expensive. Does the flat have a garden?
   B: The building has a garden that everyone can use.
@@ -864,7 +864,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;13;" A: I want to make an omelette for tea, so I need eggs.
+6;13;audio6-3;" A: I want to make an omelette for tea, so I need eggs.
   B: The eggs are over here, in this aisle.
   A: Hmm, I think I need medium-sized eggs.
   B: Free-range eggs?
@@ -1030,7 +1030,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;14;" A: I'll help you carry this food home. Where do you live?
+6;14;audio6-4;" A: I'll help you carry this food home. Where do you live?
   B: I live in a third floor flat near the high street. Do you know the high street?
   A: Yeah, I do.
   B: If you turn right at the traffic lights, my flat is on that road.
@@ -1217,7 +1217,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;15;" A: Do you have your university timetable yet?
+6;15;audio6-5;" A: Do you have your university timetable yet?
   B: Yeah, I got it yesterday. My classes start on Monday in the main lecture hall.
   A: Do you have many classes?
   B: I have two classes every morning, and one every afternoon.
@@ -1414,7 +1414,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;16;"A: Hey, Katrina! Do you have any snow boots?
+6;16;audio6-6;"A: Hey, Katrina! Do you have any snow boots?
   B: No, I don't. Will it snow?
   A: The weather forecast said that it will probably snow heavily later.
   B: Really? It's raining now but it's still warm.
@@ -1743,7 +1743,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;17;" A: It's your birthday next week, isn't it? Do you have any plans yet?
+6;17;audio6-7;" A: It's your birthday next week, isn't it? Do you have any plans yet?
   B: Not yet! What do you think I should do?
   A: You should have a party.
   B: That takes too much organising at short notice. How about going to a restaurant?
@@ -1951,7 +1951,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;18;"A: Hey, Phil. I need to go to the library but it's a little far. Can I borrow your bike?
+6;18;audio6-8;"A: Hey, Phil. I need to go to the library but it's a little far. Can I borrow your bike?
   B: When do you need it?
   A: Um, now? I'll be back by 4 p.m.
   B: I really need it back by 3.30 p.m. as I have to go to school.
@@ -2073,7 +2073,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;19;" A: This gym has a squash court too. Fancy a game?
+6;19;audio6-9;" A: This gym has a squash court too. Fancy a game?
   B: Oh, I can't play squash.
   A: What!?
   B: I'm really bad at it. I always miss the ball.
@@ -2304,7 +2304,7 @@ ID Course;ID Part;Content Audio;Content Lesson
                                                             </div>
                                             </div>
                 </div>"
-6;20;"A: Hello, I'm Daniel. I just moved in next door. Nice to meet you!
+6;20;audio6-10;"A: Hello, I'm Daniel. I just moved in next door. Nice to meet you!
   B: Hi, I'm Katrina. Nice to meet you too.
   A: I'm having a housewarming party tomorrow evening. Are you free?
   B: Thanks for the kind invite! I'd love to come!
