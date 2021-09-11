@@ -1,61 +1,81 @@
-Course;Part;ID Course;ID Part
-American English Listening Comprehension 1;At an American Bookstore;1;1
-American English Listening Comprehension 1;At an American Restaurant;1;2
-American English Listening Comprehension 1;Calling the American Doctor's Office;1;3
-American English Listening Comprehension 1;Reading a Journal in English;1;4
-American English Listening Comprehension 1;Looking At a Photograph from the U.S.A.;1;5
-American English Listening Comprehension 1;Seeing a Movie in U.S.A;1;6
-American English Listening Comprehension 1;Shopping for a Shirt in U.S.A;1;7
-American English Listening Comprehension 1;Ordering a Burger in English;1;8
-American English Listening Comprehension 1;Baking a Cake in U.S.A;1;9
-American English Listening Comprehension 1;Making Plans for the Day in English;1;10
-American English Listening Comprehension 2;At the Jewelry Store in the USA;2;11
-American English Listening Comprehension 2;Rearranging the Office in the USA;2;12
-American English Listening Comprehension 2;Getting Some Groceries in the USA;2;13
-American English Listening Comprehension 2;Listening to an English Forecast;2;14
-American English Listening Comprehension 2;Discussing a New Design in English;2;15
-American English Listening Comprehension 2;Getting English Directions;2;16
-American English Listening Comprehension 2;Choosing a Drink in The U.S.A;2;17
-American English Listening Comprehension 2;Shopping for a Computer in The U.S.A;2;18
-American English Listening Comprehension 2;Talking About Your Schedule in English;2;19
-American English Listening Comprehension 2;Ordering a Pizza in English;2;20
-American English Listening Comprehension for Intermediate Learners;Looking At Apartments in the USA;3;21
-American English Listening Comprehension for Intermediate Learners;Reserving a Room in English;3;22
-American English Listening Comprehension for Intermediate Learners;At the Hairdresser in the USA;3;23
-American English Listening Comprehension for Intermediate Learners;Reading English Job Postings;3;24
-American English Listening Comprehension for Intermediate Learners;Shopping for an Outfit in the USA;3;25
-American English Listening Comprehension for Intermediate Learners;Discussing a Document in English;3;26
-American English Listening Comprehension for Intermediate Learners;Reporting a Lost Item in English;3;27
-American English Listening Comprehension for Intermediate Learners;Looking for an Apartment in The USA;3;28
-American English Listening Comprehension for Intermediate Learners;Choosing a Cake in The USA;3;29
-American English Listening Comprehension for Intermediate Learners;Deciding When to Move in The USA;3;30
-American English Listening Comprehension;An English Business Presentation;4;31
-American English Listening Comprehension;Getting a Gym Membership in the USA;4;32
-American English Listening Comprehension;At a Printing Company in the USA;4;33
-American English Listening Comprehension;Reserving Tickets to a Play in English;4;34
-American English Listening Comprehension;Preparing For an English Business Meeting;4;35
-American English Listening Comprehension;Deciding on a Hotel in The USA;4;36
-American English Listening Comprehension;Setting up a Meeting Room in The USA;4;37
-American English Listening Comprehension;Ordering Office Supplies in English;4;38
-American English Listening Comprehension;Getting to the Airport in The USA;4;39
-American English Listening Comprehension;Talking to a Supplier in English;4;40
-Level 2 American English;Where Did You Learn to Speak English like That?!;5;41
-Level 2 American English;How to make a First Impression in English that Will Last a Lifetime;5;42
-Level 2 American English;Do People Understand Where You're Coming From?;5;43
-Level 2 American English;A Conversation Mistake You Don't Want to Make;5;44
-Level 2 American English;Welcome to New York! Avoid Instant Immersion Shock with this Lesson!;5;45
-Level 2 American English;Don't Miss Your Chance! How to Close the Deal in English;5;46
-Level 2 American English;Don't Answer the English Questions Incorrectly!;5;47
-Level 2 American English;Get What You Want Using English;5;48
-Level 2 American English;The Most Important Place in America;5;49
-Level 2 American English;How to Stay in Style While in America;5;50
-Level 2 British English;Getting Formal in the UK;6;51
-Level 2 British English;Finding a Place to Call Your Own in the UK;6;52
-Level 2 British English;How Many Eggs Do You Need to Make a British Omelette?;6;53
-Level 2 British English;Finding Your Way Around the UK;6;54
-Level 2 British English;Talking About Your Timetable in English;6;55
-Level 2 British English;The Weather in England is Something You Can Always Talk About;6;56
-Level 2 British English;Where in the UK Should You Celebrate Your Birthday?;6;57
-Level 2 British English;Borrowing Something from a British Friend;6;58
-Level 2 British English;Talking About Your Sporting Prowess in English;6;59
-Level 2 British English;Accepting an English Invitation;6;60
+ID Course;level course;Course;ID Part;Part
+1;1.beginner;American English Listening Comprehension 1;1;At an American Bookstore
+1;1.beginner;American English Listening Comprehension 1;2;At an American Restaurant
+1;1.beginner;American English Listening Comprehension 1;3;Calling the American Doctor's Office
+1;1.beginner;American English Listening Comprehension 1;4;Reading a Journal in English
+1;1.beginner;American English Listening Comprehension 1;5;Looking At a Photograph from the U.S.A.
+1;1.beginner;American English Listening Comprehension 1;6;Seeing a Movie in U.S.A
+1;1.beginner;American English Listening Comprehension 1;7;Shopping for a Shirt in U.S.A
+1;1.beginner;American English Listening Comprehension 1;8;Ordering a Burger in English
+1;1.beginner;American English Listening Comprehension 1;9;Baking a Cake in U.S.A
+1;1.beginner;American English Listening Comprehension 1;10;Making Plans for the Day in English
+2;2.Intermediate;American English Listening Comprehension 2;11;At the Jewelry Store in the USA
+2;2.Intermediate;American English Listening Comprehension 2;12;Rearranging the Office in the USA
+2;2.Intermediate;American English Listening Comprehension 2;13;Getting Some Groceries in the USA
+2;2.Intermediate;American English Listening Comprehension 2;14;Listening to an English Forecast
+2;2.Intermediate;American English Listening Comprehension 2;15;Discussing a New Design in English
+2;2.Intermediate;American English Listening Comprehension 2;16;Getting English Directions
+2;2.Intermediate;American English Listening Comprehension 2;17;Choosing a Drink in The U.S.A
+2;2.Intermediate;American English Listening Comprehension 2;18;Shopping for a Computer in The U.S.A
+2;2.Intermediate;American English Listening Comprehension 2;19;Talking About Your Schedule in English
+2;2.Intermediate;American English Listening Comprehension 2;20;Ordering a Pizza in English
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;21;Looking At Apartments in the USA
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;22;Reserving a Room in English
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;23;At the Hairdresser in the USA
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;24;Reading English Job Postings
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;25;Shopping for an Outfit in the USA
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;26;Discussing a Document in English
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;27;Reporting a Lost Item in English
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;28;Looking for an Apartment in The USA
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;29;Choosing a Cake in The USA
+3;3.Upper Intermediate;American English Listening Comprehension for Intermediate Learners;30;Deciding When to Move in The USA
+4;4.Advanced;American English Listening Comprehension;31;An English Business Presentation
+4;4.Advanced;American English Listening Comprehension;32;Getting a Gym Membership in the USA
+4;4.Advanced;American English Listening Comprehension;33;At a Printing Company in the USA
+4;4.Advanced;American English Listening Comprehension;34;Reserving Tickets to a Play in English
+4;4.Advanced;American English Listening Comprehension;35;Preparing For an English Business Meeting
+4;4.Advanced;American English Listening Comprehension;36;Deciding on a Hotel in The USA
+4;4.Advanced;American English Listening Comprehension;37;Setting up a Meeting Room in The USA
+4;4.Advanced;American English Listening Comprehension;38;Ordering Office Supplies in English
+4;4.Advanced;American English Listening Comprehension;39;Getting to the Airport in The USA
+4;4.Advanced;American English Listening Comprehension;40;Talking to a Supplier in English
+5;1.beginner;Level 1 American English;41;Where Did You Learn to Speak English like That?!
+5;1.beginner;Level 1 American English;42;How to make a First Impression in English that Will Last a Lifetime
+5;1.beginner;Level 1 American English;43;Do People Understand Where You're Coming From?
+5;1.beginner;Level 1 American English;44;A Conversation Mistake You Don't Want to Make
+5;1.beginner;Level 1 American English;45;Welcome to New York! Avoid Instant Immersion Shock with this Lesson!
+5;1.beginner;Level 1 American English;46;Don't Miss Your Chance! How to Close the Deal in English
+5;1.beginner;Level 1 American English;47;Don't Answer the English Questions Incorrectly!
+5;1.beginner;Level 1 American English;48;Get What You Want Using English
+5;1.beginner;Level 1 American English;49;The Most Important Place in America
+5;1.beginner;Level 1 American English;50;How to Stay in Style While in America
+6;2.Intermediate;Level 2 British English;51;Getting Formal in the UK
+6;2.Intermediate;Level 2 British English;52;Finding a Place to Call Your Own in the UK
+6;2.Intermediate;Level 2 British English;53;How Many Eggs Do You Need to Make a British Omelette?
+6;2.Intermediate;Level 2 British English;54;Finding Your Way Around the UK
+6;2.Intermediate;Level 2 British English;55;Talking About Your Timetable in English
+6;2.Intermediate;Level 2 British English;56;The Weather in England is Something You Can Always Talk About
+6;2.Intermediate;Level 2 British English;57;Where in the UK Should You Celebrate Your Birthday?
+6;2.Intermediate;Level 2 British English;58;Borrowing Something from a British Friend
+6;2.Intermediate;Level 2 British English;59;Talking About Your Sporting Prowess in English
+6;2.Intermediate;Level 2 British English;60;Accepting an English Invitation
+7;3.Upper Intermediate;Level 3 American English;61;Making an Appointment: Part 1
+7;3.Upper Intermediate;Level 3 American English;62;Opening a Conversation: Part 1
+7;3.Upper Intermediate;Level 3 American English;63;Shopping: Part 1
+7;3.Upper Intermediate;Level 3 American English;64;Making An Appointment: Part 2
+7;3.Upper Intermediate;Level 3 American English;65;Opening a Conversation: Part 2
+7;3.Upper Intermediate;Level 3 American English;66;Postponing an appointment
+7;3.Upper Intermediate;Level 3 American English;67;Making an Appointment: Part 3
+7;3.Upper Intermediate;Level 3 American English;68;Shopping: Part 2
+7;3.Upper Intermediate;Level 3 American English;69;Catching Up with a Friend
+7;3.Upper Intermediate;Level 3 American English;70;Ordering Pizza 1
+8;4.Advanced;Level 4 American English;71;The English Interview
+8;4.Advanced;Level 4 American English;72;English Internships for All!
+8;4.Advanced;Level 4 American English;73;The Hunt for A Good American Apartment
+8;4.Advanced;Level 4 American English;74;Greeting Your American Boss
+8;4.Advanced;Level 4 American English;75;Getting Mugged in the US
+8;4.Advanced;Level 4 American English;76;Are you Directionally Challenged in the US?
+8;4.Advanced;Level 4 American English;77;Are you a Slave to American Coffee?
+8;4.Advanced;Level 4 American English;78;The White House is Meeting with the Capitol to Talk about Wall Street
+8;4.Advanced;Level 4 American English;79;Happy Hours for Happy Days in the United States
+8;4.Advanced;Level 4 American English;80;English Pickup Lines
