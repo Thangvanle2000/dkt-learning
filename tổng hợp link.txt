@@ -1,0 +1,9 @@
+biểu đồ db {
+	https://dbdiagram.io/d/613b630c825b5b0146fc752b
+}
+chuyển chữ thành html để dán vào excel{
+	https://www.convertsimple.com/convert-textile-to-html/?fbclid=IwAR3_M6LP-R6HZuiJfEUWq2sQYniPHnuQq_z7e8yvZqEaiDOGT6i_8zkVQJ4
+}
+tool vẽ diagram{
+	https://app.diagrams.net/
+}
